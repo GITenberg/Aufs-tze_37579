@@ -1,0 +1,47 @@
+_repo: Aufs-tze_37579
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Walser, Karl
+    alias: Walser, Carl
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '36463'
+    url: http://www.gutenberg.org/2009/agents/36463
+covers:
+- cover_type: archival
+  image_path: 37579-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Walser, Robert
+    birthdate: 1878
+    deathdate: 1956
+    gutenberg_agent_id: '26294'
+    url: http://www.gutenberg.org/2009/agents/26294
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Walser_%28writer%29
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37579'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- !lcsh 'Swiss fiction (German)'
+tableOfContents: Brief von Simon Tanner -- An die Heimat -- Brief eines Mannes an
+  einen Mann -- Eine Theatervorstellung -- In der Provinz -- Frau und Schauspieler
+  -- Entwurf zu einem Vorspiel -- Zwei kleine Märchen -- Vier Späße -- Tell in Prosa
+  -- Berühmter Auftritt -- Percy -- Gebirgshallen -- Auf Knien -- »Guten Abend, Jungfer!«
+  -- Porträtskizze -- Ein Genie -- Don Juan -- Kino -- Wanda -- Fanny -- Lebendes
+  Bild -- Ovation -- Guten Tag, Riesin! -- Aschinger -- Markt -- Dinerabend -- Friedrichstraße
+  -- Berlin W -- Ballonfahrt -- Tiergarten -- Die kleine Berlinerin -- Brentano --
+  Aus Stendhal -- Kotzebue -- Büchners Flucht -- Birch-Pfeiffer -- Lenz -- Germer
+  -- Das Büebli -- Paganini -- Der Schriftsteller -- Allerlei -- Der Wald -- Zwei
+  sonderbare Geschichten vom Sterben -- Der fremde Geselle -- Die Einsiedelei -- Reigen.
+title: Aufsätze
+url: http://www.gutenberg.org/ebooks/37579
